@@ -57,7 +57,7 @@
 .animation-area {
     background: linear-gradient(to left, #ED6EF2, green);
     justify-content: center;
-    width: 123%;
+    width: 100%;
     height:100vh;
 }
 
